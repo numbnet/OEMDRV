@@ -1,42 +1,27 @@
 ##=======================================================
 ## ====Build and Release Folders
 # Efi/*
-# images/*
-# isolinux/*
-ks/*
-# LiveOS/*
-# Packages/*
-# repodata/*
+images/*
+isolinux/*
+LiveOS/*
+Packages/*
+repodata/*
 
 ##=======================================================
 ## ====Build and Release File
-# isolinux/initrd.img
-# isolinux/isolinux.bin
-# isolinux/isolinux_.cfg
-# images/pxeboot/initrd.img
-# LiveOS/squashfs.img
-# .discinfo
-# .treeinfo
-# add-vsftpd-Serv_.sh
-# autorun.ico
-# autorun.inf
-# CentOS_BuildTag
-# EULA
-# GPL
-# ks.autopart.cfg
+
 ks.cfg
-# ldlinux.sys
-# README.md
-# RPM-GPG-KEY-CentOS-7
-# RPM-GPG-KEY-CentOS-Testing-7
-# syslinux.cfg
-# TRANS.TBL
 
 ##=======================================================
 ## Other files and folders
+
 System Volume Information*
 
 
 ##=======================================================
 ## Executables
 
+isolinux/initrd.img
+isolinux/initrd.img
+images/pxeboot/initrd.img
+LiveOS/squashfs.img
